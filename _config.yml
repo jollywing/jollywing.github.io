@@ -1,0 +1,3 @@
+paginate: 6 # 指定每页多少条
+paginate_path: "page:num" # 指定每页的url
+markdown:      kramdown #默认使用kramdown
