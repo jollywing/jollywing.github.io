@@ -1,6 +1,7 @@
 ---
 title: Linux终端输出彩色字符
 layout: post
+category: Linux开发
 ---
 
 # Linux终端彩色字符的输出方法[收藏] #

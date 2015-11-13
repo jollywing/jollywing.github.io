@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux动态库与静态库生成指南
+category: Linux开发
 ---
 
 # Linux静态库生成指南#

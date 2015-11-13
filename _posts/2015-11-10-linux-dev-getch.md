@@ -1,6 +1,7 @@
 ---
 title: Linux下实现getch
 layout: post
+category: Linux开发
 ---
 
 # Linux下实现getch() #

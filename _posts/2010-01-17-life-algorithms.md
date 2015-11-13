@@ -1,6 +1,7 @@
 ---
 title: 生活中的各种算法
 layout: post
+category: geek生活
 ---
 
 ## 从哪里开始工作 ##
