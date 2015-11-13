@@ -20,12 +20,16 @@ title: 欢欣之翼
           <h3>最新文章</h3>
           <ul>
               {% for post in site.posts %}
-              <li>[{{ post.date | date:"%Y-%m-%d" }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+              <li>[{{ post.date | date:"%Y-%m-%d" }}] <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ post.title }}</a></li>
               {% endfor %}
           </ul>
           <hr>
           <span class="credits left">Project maintained by <a href="https://github.com/jollywing">jollywing</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+          <p>
+              <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+              <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
+
         </div>
 
       </section>
