@@ -4,6 +4,10 @@ paginate_path: "page:num" # 指定每页的url
 markdown:      kramdown #默认使用kramdown
 timezone: Asia/Shanghai
 
+title: 欢欣之翼
+author: jollywing
+description: jollywing在Github，一个包罗万象的原创博客网站，技术、日记、文学都有所涉猎。
+baidu_analyze: 8d4969a2c5d00ce554d9003494fcb9fe
 comments :
     provider : duoshuo
     duoshuo :
